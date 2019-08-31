@@ -1,4 +1,4 @@
-package javafx.example;
+package sample;
 
 import java.io.File;
 
